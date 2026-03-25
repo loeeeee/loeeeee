@@ -2,15 +2,15 @@
 
 I code for fun.
 
-I enjoy playing with all kinds of thing that has electricity in it. Got electrocuted once by a 450V ZVS on my finger. 
+I enjoy playing with anything that has electricity. I got shocked by a 450V ZVS on my finger once.
 
-I have a home lab setup that is rigorously engineerred. 
+My home lab is rigorously engineered. I hold the water blocks on with zip ties.
 
-My homelab has three sites with traditional network setup.
+My lab spans three sites. It has four servers, 88 cores, and 386 GB of RAM. Combined, the hardware is 31 years old.
 
-I plan to setup a overlay network sometime in the future.
+I plan to set up an overlay network soon™. I just migrated my blog away from WordPress to zola. I have procrastinated on this for five years.
 
-I use Fedora and NixOS by the way.
+I use Fedora and NixOS, by the way. I love NixOS.
 
 <!--
 **loeeeee/loeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
