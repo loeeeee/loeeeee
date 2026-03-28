@@ -1,6 +1,6 @@
 # Data Scientist specialized in Infrastructure and Scaling
 
-I code for fun.
+I command my machines with code, for fun mostly, because I am unemployed.
 
 I enjoy playing with anything that has electricity. I got shocked by a 450V ZVS on my finger once.
 
