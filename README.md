@@ -12,6 +12,7 @@ I plan to set up an overlay network soon™. I just migrated my blog away from W
 
 I use Fedora and NixOS, by the way, and I love NixOS.
 
+I don't have much recent commit history on GitHub, because I have now graduated from it, and now primarly use my own instances of CI/CD servers.
 
 <!--
 **loeeeee/loeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
